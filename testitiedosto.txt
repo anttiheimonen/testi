@@ -3,4 +3,8 @@ Toka rivi MUUTETTU by 1
 Kolmas
 neljäs MUUTETTU by 2
 
+<<<<<<< HEAD
 Tokan lisäämä rivi
+=======
+Eka lisäsi rivi 6
+>>>>>>> 5e84139d0f51351c389ceb68e57af35be17431dd
