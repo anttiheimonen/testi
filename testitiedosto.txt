@@ -1,2 +1,4 @@
 Uusi rivi tekstiä
 Toka rivi
+Kolmas
+neljäs
