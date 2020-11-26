@@ -2,3 +2,5 @@ Uusi rivi tekstiä
 Toka rivi MUUTETTU by 1
 Kolmas
 neljäs MUUTETTU by 2
+
+Eka lisäsi rivi 6
