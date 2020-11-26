@@ -4,6 +4,9 @@ Kolmas
 neljäs MUUTETTU by 2
 Uusi rivi by 1
 Eka lisäsi rivi 6
+<<<<<<< HEAD
 tokan muutos
+=======
+>>>>>>> 4259be361ecbafc2cbc8a9138302fc00aed14e11
 Ekan muutos
 Uusi rivi by 2
